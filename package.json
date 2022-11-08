@@ -1,0 +1,24 @@
+{
+  "name": "simple-css-minify",
+  "version": "1.0.0",
+  "description": "css minifier",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyitstay11/simple-css-minify.git"
+  },
+  "keywords": [
+    "css",
+    "minify"
+  ],
+  "author": "Tayyab <heyitstay011@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyitstay11/simple-css-minify/issues"
+  },
+  "homepage": "https://github.com/heyitstay11/simple-css-minify#readme"
+}
